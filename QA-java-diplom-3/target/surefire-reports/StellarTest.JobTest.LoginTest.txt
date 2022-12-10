@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: StellarTest.JobTest.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.993 s - in StellarTest.JobTest.LoginTest

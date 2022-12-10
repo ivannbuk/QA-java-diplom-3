@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: StellarTest.JobTest.ProfileTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.328 s - in StellarTest.JobTest.ProfileTest
